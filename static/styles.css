@@ -26,7 +26,6 @@
 .stMarkdown p{
   text-align: center;
   overflow: hidden;
-  white-space: nowrap; 
   margin: 0 auto; 
   letter-spacing: .15em;
   animation: 
@@ -34,6 +33,11 @@
     blink-caret .75s step-end;
 }
 
+
+.stButton{
+  display: flex;
+    flex-direction: column;
+}
 
 .ef3psqc12{
   align-self: center;
