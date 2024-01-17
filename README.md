@@ -1,6 +1,6 @@
 # Questionário Kukac - Chat Bot 💬
 
-Este é um aplicativo de questionário interativo implementado em Streamlit para o teste pratico do processo seletivo de Estácio na Kucak.
+Este é um aplicativo de questionário interativo implementado em Streamlit para o teste pratico do processo seletivo de Desenvolvedor Fullstack na Kucak.
 
 ## Funcionalidades
 
